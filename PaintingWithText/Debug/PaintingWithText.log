@@ -1,2 +1,3 @@
 ﻿  Assembling Painting.asm...
-  PaintingWithText.vcxproj -> C:\Users\GuanYu329\Desktop\Win32Programing\PaintingWithText\Debug\PaintingWithText.exe
+Painting.asm(44): error A2111: conflicting parameter definition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(69,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\Painting.obj" /W3 /errorReport:prompt  /TaPainting.asm" exited with code 1.

@@ -1,0 +1,5 @@
+﻿  Assembling KeyboardInput.asm...
+KeyboardInput.asm(67): warning A6004: procedure argument or local not referenced : hPrevInst
+KeyboardInput.asm(67): warning A6004: procedure argument or local not referenced : CmdLine
+KeyboardInput.asm(67): warning A6004: procedure argument or local not referenced : CmdShow
+  KeyBoardInput.vcxproj -> C:\Users\GuanYu329\Desktop\Win32Programing\KeyBoardInput\Debug\KeyBoardInput.exe
