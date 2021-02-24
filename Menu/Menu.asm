@@ -50,6 +50,9 @@ start:
 	push		hInstance
 	call		WinMain
 
+	xor		eax,eax
+	ret
+
 WinMain proc
 	mov   wc.cbSize,SIZEOF WNDCLASSEX
      mov   wc.style, CS_HREDRAW or CS_VREDRAW
@@ -131,7 +134,7 @@ WinMain proc
 	
 WinMain endp
 
-WndProc proc proc hWnd:HWND, uMsg:UINT, wParam:WPARAM, lParam:LPARAM
+WndProc proc hWnd:HWND, uMsg:UINT, wParam:WPARAM, lParam:LPARAM
 	cmp	uMsg,WM_DESTROY
 	je	window_destroy
 

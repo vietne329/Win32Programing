@@ -1,2 +1,5 @@
 ﻿  Assembling ChildWindow.asm...
+ChildWindow.asm(78): warning A6004: procedure argument or local not referenced : hPrevInst
+ChildWindow.asm(78): warning A6004: procedure argument or local not referenced : CmdLine
+ChildWindow.asm(78): warning A6004: procedure argument or local not referenced : CmdShow
   ChildWindow.vcxproj -> C:\Users\GuanYu329\Desktop\Win32Programing\ChildWindow\Debug\ChildWindow.exe

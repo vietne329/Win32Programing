@@ -1,0 +1,9 @@
+﻿  Assembling DialogBox.asm...
+DialogBox.asm(139): warning A6004: procedure argument or local not referenced : hPrevInst
+DialogBox.asm(139): warning A6004: procedure argument or local not referenced : CmdLine
+DialogBox.asm(139): warning A6004: procedure argument or local not referenced : CmdShow
+DialogBox.asm(317): warning A6004: procedure argument or local not referenced : lParam
+DialogBox.asm(361): warning A6004: procedure argument or local not referenced : lParam
+DialogBox.asm(398): warning A6004: procedure argument or local not referenced : lParam
+DialogBox.asm(668): warning A6004: procedure argument or local not referenced : buffer
+  DialogBox.vcxproj -> C:\Users\GuanYu329\Desktop\Win32Programing\DialogBox\Debug\DialogBox.exe
